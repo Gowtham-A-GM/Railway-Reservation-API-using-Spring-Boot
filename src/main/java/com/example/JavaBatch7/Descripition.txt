@@ -1,0 +1,51 @@
+addPassenger
+{
+    "name": "Gowtham",
+    "phone": 945323892,
+    "email": "gowtham@xmail.com"
+}
+
+addAccommodation
+{
+    "id": 1,
+    "food":"Maggie",
+    "foodPrice":50.00,
+    "fine":false,
+    "finePrice": 0.00
+}
+
+addTicket
+{
+    "id":1,
+    "type": "First Class",
+    "time":"2007-12-03T10:15:30",
+    "tno":1
+
+}
+
+addTrainDetail
+{
+    "trainNumber": 1,
+    "fromPlace":"Chennai",
+    "toPlace": "Delhi",
+    "fromTime":"2007-12-03T10:15:30",
+    "toTime": "2007-12-03T10:15:30"
+
+}
+
+addTrainFacility
+{
+    "trainNumber":1,
+    "seats":20,
+    "compartments":5,
+    "speed":120
+
+}
+
+addTrainStation
+{
+    "tno": 1,
+    "stationId": 31412,
+    "stationName":"Chennai"
+
+}
