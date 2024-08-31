@@ -1,7 +1,7 @@
 # Railway Reservation API using Spring Boot in Java
 
 Welcome to the **Railway Reservation API** project! This API is designed to streamline railway ticketing processes, providing efficient solutions for passengers and administrators alike. Built using Spring Boot in Java, it offers a range of features to handle various aspects of railway reservations.
-#### `Start Date :    03/08/2024` `End Date   :   31/08/2024`
+#### `Start Date : 03/08/2024` `End Date : 31/08/2024`
 ## 🚀 Features
 
 ### 1. CRUD Operations
